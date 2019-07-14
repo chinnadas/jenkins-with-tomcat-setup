@@ -139,3 +139,4 @@ sudo systemctl restart tomcat
 http://<your_domain_or_IP_address>:8080
 http://<your_domain_or_IP_address>:8080/manager/html
 http://<your_domain_or_IP_address>:8080/host-manager/html
+--------------------------------------------------------------------------
